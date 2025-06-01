@@ -120,7 +120,7 @@ input[type="submit"]{
 }
 
 /*　モバイル対応  */
-@media (max-width:767px) {
+@media(max-width:767px) {
     .nav ul{
         flex-wrap: wrap;
         gap: 20px;
@@ -129,12 +129,12 @@ input[type="submit"]{
         padding: 0 4%;
     }
 
-    /* index.html */
+    /*index.html*/
     .hero.index{
         padding: 28vh 0;
     }
 
-    /* menu.html */
+    /*menu.html*/
     .items{
         grid-template-columns: 1fr 1fr;
     }  
