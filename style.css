@@ -35,19 +35,19 @@ img{
 /* すべてのページに適用-ヘッダー */
 .header{
     padding-top: 40px;
-    background-image:url(images/stripe.png);
+    background-image:url(stripe.png);
     background-repeat: repeat-x;
 }
 .logo{
-    text-align: center;
+    text-align:center;
 }
 .nav ul{
     margin:0 0 0 0;
     padding:0;
-    list-style-type: none;
+    list-style-type:none;
 
     display: flex;
-    justify-content: center;
+    justify-content:center;
     gap: 40px;
 }
 .nav a:link{
@@ -57,30 +57,30 @@ img{
     color: #848255;
 }
 .nav a:hover{
-    text-decoration: none;
+    text-decoration:none;
 }
 .nav a:active{
-    text-decoration: none;
+    text-decoration:none;
 }
 
 /* すべてのページに適用-ヒーロー　*/
 .hero{
     padding: 137px 0;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
     color: #4f4c0a;
-    text-align: center;
+    text-align:center;
 }
 .hero.index {
     padding: 287px 0;
-    background-image:url(../images/kiiro.png);
+    background-image:url(kiiro.png);
 }
 .hero.access {
-    background-image:url(../images/access-hero.jpg);
+    background-image:url(access-hero.jpg);
 }
 .hero.menu {
-    background-image:url(../images/menu-hero.jpg);
+    background-image:url(menu-hero.jpg);
 }
 
 }
@@ -99,7 +99,7 @@ main h2 {
 
 /* すべてのページに適用-フッター　*/
 .gotop{
-    text-align: center;
+    text-align:center;
 }
 .copyright{
     margin-top: 20px;
@@ -108,16 +108,16 @@ main h2 {
     padding-bottom: 75px;
     background-color: #848255;
     color: #FFF;
-    text-align: center;
+    text-align:center;
 }
 
 /* 個別のスタイル */
 /* index.html */
 .logo-whale{
-    text-align: center;
+    text-align:center;
 }
 .shop-info{
-    border-collapse: collapse;
+    border-collapse:collapse;
 }
 .shop-info th, .shop-info td{
     border: 1px solid #dbdbdb;
