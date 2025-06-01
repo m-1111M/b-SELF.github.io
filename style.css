@@ -35,7 +35,7 @@ img{
 /* すべてのページに適用-ヘッダー */
 .header{
     padding-top: 40px;
-    background-image: url(../images/stripe.png);
+    background-image: url(images/stripe.png);
     background-repeat: repeat-x;
 }
 .logo{
