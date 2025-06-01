@@ -51,10 +51,7 @@ img{max-width:100%;}
 .hero.access {background-image:url(access-hero.jpg);}
 .hero.menu {background-image:url(menu-hero.jpg);}}
 /* すべてのページに適用-メイン　*/
-main{
-    margin:90px auto90px auto;
-    max-width:1000px;
-}
+main{margin:90px auto90px auto;max-width:1000px;}
 main h2 {
     margin:60px020px0;
     border-bottom:2px solid #848255;
