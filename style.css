@@ -40,26 +40,16 @@ img{max-width: 100%;}
 }
 
 /* すべてのページに適用-ヒーロー　*/
-.hero{
-    padding: 137px 0;
+.hero{padding: 137px 0;
     background-repeat:no-repeat;
     background-position:center;
     background-size:cover;
     color: #4f4c0a;
-    text-align:center;
-}
-.hero.index {
-    padding: 287px 0;
-    background-image:url(kiiro.png);
-}
-.hero.access {
-    background-image:url(access-hero.jpg);
-}
-.hero.menu {
-    background-image:url(menu-hero.jpg);
-}
-
-}
+    text-align:center;}
+.hero.index {padding: 287px 0;
+    background-image:url(kiiro.png);}
+.hero.access {background-image:url(access-hero.jpg);}
+.hero.menu {background-image:url(menu-hero.jpg);}}
 /* すべてのページに適用-メイン　*/
 main{
     margin: 90px auto 90px auto;
