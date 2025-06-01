@@ -113,20 +113,14 @@ main h2 {
 
 /* 個別のスタイル */
 /* index.html */
-.logo-whale{
-    text-align:center;
+.logo-whale{text-align:center;
 }
-.shop-info{
-    border-collapse:collapse;
+.shop-info{border-collapse:collapse;
 }
-.shop-info th, .shop-info td{
-    border: 1px solid #dbdbdb;
-    padding: 20px;
+.shop-info th, .shop-info td{border:1px solid #dbdbdb;padding:20px;
 }
-.shop-info th{
-    width: 142px;
-    text-align: left;
-    vertical-align: top;
+.shop-info th{width: 142px;
+    text-align:left;vertical-align:top;
 }
 
 /* plan.html */
